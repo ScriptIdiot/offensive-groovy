@@ -30,3 +30,8 @@
 | [**`upload.groovy`**](generic/upload.groovy)               | Upload files to Jenkins                    | Cross-platform   |
 | [**`ver.groovy`**](generic/ver.groovy)                     | Retrieve the OS version                    | Cross-platform   |
 | [**`whoami.groovy`**](generic/whoami.groovy)               | Identify the current user                  | Cross-platform   |
+
+## References
+•	https://github.com/hoto/jenkins-credentials-decryptor
+•	https://www.codurance.com/publications/2019/05/30/accessing-and-dumping-jenkins-credentials
+•	https://www.exploit-db.com/docs/47374
