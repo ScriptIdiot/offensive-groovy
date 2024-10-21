@@ -33,5 +33,7 @@
 
 ## References
 •	https://github.com/hoto/jenkins-credentials-decryptor
+
 •	https://www.codurance.com/publications/2019/05/30/accessing-and-dumping-jenkins-credentials
+
 •	https://www.exploit-db.com/docs/47374
